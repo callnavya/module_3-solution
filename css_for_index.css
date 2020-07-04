@@ -34,7 +34,7 @@ ul {
     text-align:right;
 }
 ul li {
-    
+    background-color:white;
     text-align: center;
     font-size: 15px;
     color: blue;
@@ -53,5 +53,8 @@ span{
 @media(min-width: 786px){
 	#right-side-button{
 		display: none;
+	}
+	#visible_in_xs{
+		display:none;
 	}
 }
