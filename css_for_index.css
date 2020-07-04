@@ -34,7 +34,7 @@ ul {
     text-align:right;
 }
 ul li {
-    background-color:white;
+    background-color: white;
     text-align: center;
     font-size: 15px;
     color: blue;
@@ -54,7 +54,7 @@ span{
 	#right-side-button{
 		display: none;
 	}
-	#visible_in_xs{
+	#x{
 		display:none;
 	}
 }
